@@ -85,3 +85,6 @@ local.properties
 .classpath
 .project
 /bin1/
+
+# README
+README-PASTIS.md
